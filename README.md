@@ -1,5 +1,4 @@
-# SPROB20 - SPEAR PROSTATE BIOPSY 2020
-
+# SPROB20 dataset sample notebook
 This repo contains a sample notebook for reading data from the SPROB20 dataset.
 
 The dataset is a AIDA Data hub dataset and access is granted to AIDA members for research work. See https://datahub.aida.scilifelab.se/ for details.
