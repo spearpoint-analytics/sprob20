@@ -9,4 +9,3 @@ Dataset Description:
 2611 scanned prostate biopsies from 460 patient cases sampled between 2015 and 2018. Annotation of clinical meta data and treatment decisions made in connection with biopsy sampling exist on case-level. Roughly 35% of the biopsies contain cancer.
 
 
-# TODO link to dataset preview page
