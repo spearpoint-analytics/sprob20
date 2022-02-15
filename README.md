@@ -1,7 +1,7 @@
 # SPROB20 dataset sample notebook
 This repo contains a sample notebook for reading data from the SPROB20 dataset.
 
-The dataset is a AIDA Data hub dataset and access is granted to AIDA members for research work. See https://datahub.aida.scilifelab.se/ for details.
+The dataset is a AIDA Data hub dataset and access is granted for legal and ethical medical diagnostics research. See https://datahub.aida.scilifelab.se/ for details.
 
 
 Dataset Description:
